@@ -13,12 +13,12 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
-    <title>ARS | Online Compiler</title>
+    <title>Online Compiler</title>
   </head>
   <body>
     <nav class="mt-2 mx-2 navbar navbar-expand-lg navbar-dark bg-dark rounded">
       <div class="container-fluid text-center">
-        <a class="navbar-brand mx-auto" href="https://www.akhdani.co.id/">ARS Online Compiler</a>
+        <a class="navbar-brand mx-auto" href="https://www.akhdani.co.id/">Online Compiler</a>
       </div>
     </nav>
 
