@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\LanguageController;
+use App\Http\Controllers\SubmissionController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [LanguageController::class, 'list'])->name('home');
+Route::post('/create-submission', [SubmissionController::class, 'create']);
 
 // Route::get('/', function () {
 //     return view('home', [

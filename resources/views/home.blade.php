@@ -97,7 +97,7 @@
                         <div class="fw-bold">Console</div>
                         <div>
                             <button class="btn btn-run fw-bold mx-1">Run</button>
-                            <button class="btn fw-bold">Submit</button>
+                            <button id="submitButton" class="btn fw-bold">Submit</button>
                         </div>
                     </div>
                 </div>
